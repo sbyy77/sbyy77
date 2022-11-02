@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<div align=front><h3> 📚 Tech Stacks </h3></div>
-<div display=inline>
-  <div align=front display=inline><h3> -Front-end: </h3></div> 
-  <div display=inline> 
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  </div>
-</div>
-<br/>
-
+<div align="left"><h3> 📚 Tech Stacks </h3></div>
+<p align="left">
+  <b>-Front-end:</b>
+  <span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </span>
+  <span><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> </span>
+  <span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> </span>
+  <br/>
+</p>
+  
+  
 <!--
 **sbyy77/sbyy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
