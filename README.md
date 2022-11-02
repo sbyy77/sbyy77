@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## 🔎 Tech Stacks 🔎🔍📚🗂🗂💡
+
+
+
+
+
 <!--
 **sbyy77/sbyy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
