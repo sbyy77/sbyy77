@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🔎 Tech Stacks 🔎🔍📚🗂🗂💡
+## 📚 Tech Stacks
 
 
 
