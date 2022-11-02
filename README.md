@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align=front><h3> 📚 Tech Stacks </h3></div>
-<div display=flex>
+<div display=inline>
   <div align=front><h3> -Front-end: </h3></div> 
   <div align=front> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
